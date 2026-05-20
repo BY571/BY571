@@ -10,6 +10,7 @@
 ## RL + Robotics
 
 - [**bricksrl**](https://github.com/BricksRL/bricksrl) — LEGO-based platform for democratizing robotics and RL research · [project page](https://bricksrl.github.io/ProjectPage/)
+- [**Autonomous-Robocar**](https://github.com/BY571/Autonomous-Robocar) — Self-driving RC-car: Raspberry Pi + CNN predicting steering and throttle from camera
 
 ## RL + Trading
 
