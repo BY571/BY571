@@ -1,30 +1,30 @@
 ## Reinforcement Learning
 
-- [**Soft-Actor-Critic-and-Extensions**](https://github.com/BY571/Soft-Actor-Critic-and-Extensions) — SAC with PER, ERE, Munchausen, D2RL, parallel envs
-- [**CQL**](https://github.com/BY571/CQL) — Conservative Q-Learning for offline RL (DQN-CQL & SAC-CQL)
-- [**DQN-Atari-Agents**](https://github.com/BY571/DQN-Atari-Agents) — Modular DDQN, Dueling, Noisy, C51, Rainbow, DRQN
-- [**IQN-and-Extensions**](https://github.com/BY571/IQN-and-Extensions) — Implicit Quantile Networks with PER, Noisy, N-step, Dueling
-- [**Deep-Reinforcement-Learning-Algorithm-Collection**](https://github.com/BY571/Deep-Reinforcement-Learning-Algorithm-Collection) — Reference implementations across deep RL
-- [**Upside-Down-Reinforcement-Learning**](https://github.com/BY571/Upside-Down-Reinforcement-Learning) — Schmidhuber's ⅂ꓤ in PyTorch
+- [**Soft-Actor-Critic-and-Extensions**](https://github.com/BY571/Soft-Actor-Critic-and-Extensions): SAC with PER, ERE, Munchausen, D2RL, parallel envs
+- [**CQL**](https://github.com/BY571/CQL): Conservative Q-Learning for offline RL (DQN-CQL & SAC-CQL)
+- [**DQN-Atari-Agents**](https://github.com/BY571/DQN-Atari-Agents): Modular DDQN, Dueling, Noisy, C51, Rainbow, DRQN
+- [**IQN-and-Extensions**](https://github.com/BY571/IQN-and-Extensions): Implicit Quantile Networks with PER, Noisy, N-step, Dueling
+- [**Deep-Reinforcement-Learning-Algorithm-Collection**](https://github.com/BY571/Deep-Reinforcement-Learning-Algorithm-Collection): Reference implementations across deep RL
+- [**Upside-Down-Reinforcement-Learning**](https://github.com/BY571/Upside-Down-Reinforcement-Learning): Schmidhuber's ⅂ꓤ in PyTorch
 
 ## RL + Robotics
 
-- [**bricksrl**](https://github.com/BricksRL/bricksrl) — LEGO-based platform for democratizing robotics and RL research · [project page](https://bricksrl.github.io/ProjectPage/)
-- [**Autonomous-Robocar**](https://github.com/BY571/Autonomous-Robocar) — Self-driving RC-car: Raspberry Pi + CNN predicting steering and throttle from camera
+- [**bricksrl**](https://github.com/BricksRL/bricksrl): LEGO-based platform for democratizing robotics and RL research · [project page](https://bricksrl.github.io/ProjectPage/)
+- [**Autonomous-Robocar**](https://github.com/BY571/Autonomous-Robocar): Self-driving RC-car: Raspberry Pi + CNN predicting steering and throttle from camera
 
 ## RL + Trading
 
-- [**torchtrade**](https://github.com/TorchTrade/torchtrade) — Modular RL framework for algorithmic trading · [project page](https://torchtrade.github.io/torchtrade.io/)
+- [**torchtrade**](https://github.com/TorchTrade/torchtrade): Modular RL framework for algorithmic trading · [project page](https://torchtrade.github.io/torchtrade.io/)
 
 ## RL + LLM
 
-- [**DistRL-LLM**](https://github.com/BY571/DistRL-LLM) — Distributed RL for LLM fine-tuning across multiple GPUs
-- [**SCoRe**](https://github.com/BY571/SCoRe) — Training language models to self-correct via RL
-- [**artificial-agent-lab**](https://github.com/BY571/artificial-agent-lab) — Autonomous research lab: PI and PhD agents run experiments and write papers
-- [**sft-kl-lora-trainer**](https://github.com/BY571/sft-kl-lora-trainer) — `trl.SFTTrainer` with a KL divergence loss between LoRA adapter and base model
-- [**Agent-Tool-RL**](https://github.com/BY571/Agent-Tool-RL) — Teaching small language models to use tools with RL
-- [**CoT-Decoding**](https://github.com/BY571/CoT-Decoding) — Chain-of-Thought reasoning without prompting
-- [**nanoDiff**](https://github.com/BY571/nanoDiff) — Minimal, hackable diffusion language model — nanoGPT for the LLaDA recipe
+- [**DistRL-LLM**](https://github.com/BY571/DistRL-LLM): Distributed RL for LLM fine-tuning across multiple GPUs
+- [**SCoRe**](https://github.com/BY571/SCoRe): Training language models to self-correct via RL
+- [**artificial-agent-lab**](https://github.com/BY571/artificial-agent-lab): Autonomous research lab: PI and PhD agents run experiments and write papers
+- [**sft-kl-lora-trainer**](https://github.com/BY571/sft-kl-lora-trainer): `trl.SFTTrainer` with a KL divergence loss between LoRA adapter and base model
+- [**Agent-Tool-RL**](https://github.com/BY571/Agent-Tool-RL): Teaching small language models to use tools with RL
+- [**CoT-Decoding**](https://github.com/BY571/CoT-Decoding): Chain-of-Thought reasoning without prompting
+- [**nanoDiff**](https://github.com/BY571/nanoDiff): Minimal, hackable diffusion language model — nanoGPT for the LLaDA recipe
 
 ---
 
