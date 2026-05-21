@@ -24,6 +24,7 @@
 - [**sft-kl-lora-trainer**](https://github.com/BY571/sft-kl-lora-trainer) — `trl.SFTTrainer` with a KL divergence loss between LoRA adapter and base model
 - [**Agent-Tool-RL**](https://github.com/BY571/Agent-Tool-RL) — Teaching small language models to use tools with RL
 - [**CoT-Decoding**](https://github.com/BY571/CoT-Decoding) — Chain-of-Thought reasoning without prompting
+- [**nanoDiff**](https://github.com/BY571/nanoDiff) — Minimal, hackable diffusion language model — nanoGPT for the LLaDA recipe
 
 ---
 
