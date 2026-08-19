@@ -11,7 +11,7 @@
 
 - [**bricksrl**](https://github.com/BricksRL/bricksrl): LEGO-based platform for democratizing robotics and RL research · [project page](https://bricksrl.github.io/ProjectPage/)
 - [**Autonomous-Robocar**](https://github.com/BY571/Autonomous-Robocar): Self-driving RC-car: Raspberry Pi + CNN predicting steering and throttle from camera
-- [**automataleague**](https://github.com/BY571/automataleague): MuJoCo parkour competition environment for quadruped robots (Spot), trained with TorchRL PPO + MuJoCo-Warp
+- [**AutomataLeague**](https://github.com/AutomataLeague): Platform for training robots on competitive environments in MuJoCo — robots race and clear obstacles ([parkour](https://github.com/AutomataLeague/automataleague-parkour)), wrestle each other out of a ring ([sumo](https://github.com/AutomataLeague/automataleague-sumo)). TorchRL PPO + MuJoCo-Warp, pluggable robots
 
 ## RL + Trading
 
