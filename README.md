@@ -11,6 +11,7 @@
 
 - [**bricksrl**](https://github.com/BricksRL/bricksrl): LEGO-based platform for democratizing robotics and RL research · [project page](https://bricksrl.github.io/ProjectPage/)
 - [**Autonomous-Robocar**](https://github.com/BY571/Autonomous-Robocar): Self-driving RC-car: Raspberry Pi + CNN predicting steering and throttle from camera
+- [**automataleague**](https://github.com/BY571/automataleague): MuJoCo parkour competition environment for quadruped robots (Spot), trained with TorchRL PPO + MuJoCo-Warp
 
 ## RL + Trading
 
@@ -20,11 +21,15 @@
 
 - [**DistRL-LLM**](https://github.com/BY571/DistRL-LLM): Distributed RL for LLM fine-tuning across multiple GPUs
 - [**SCoRe**](https://github.com/BY571/SCoRe): Training language models to self-correct via RL
-- [**artificial-agent-lab**](https://github.com/BY571/artificial-agent-lab): Autonomous research lab: PI and PhD agents run experiments and write papers
 - [**sft-kl-lora-trainer**](https://github.com/BY571/sft-kl-lora-trainer): `trl.SFTTrainer` with a KL divergence loss between LoRA adapter and base model
 - [**Agent-Tool-RL**](https://github.com/BY571/Agent-Tool-RL): Teaching small language models to use tools with RL
 - [**CoT-Decoding**](https://github.com/BY571/CoT-Decoding): Chain-of-Thought reasoning without prompting
 - [**nanoDiff**](https://github.com/BY571/nanoDiff): Minimal, hackable diffusion language model — nanoGPT for the LLaDA recipe
+
+## LLM-Agent
+
+- [**artificial-agent-lab**](https://github.com/BY571/artificial-agent-lab): Autonomous research lab: PI and PhD agents run experiments and write papers
+- [**knoten**](https://github.com/BY571/knoten): Research graph that remembers what didn't work — Markdown in git, CLI + SKILL.md so coding agents stop redoing dead experiments
 
 ---
 
