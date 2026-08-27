@@ -37,9 +37,9 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/BY571/BY571/main/assets/stats-dark.svg">
-  <img src="https://raw.githubusercontent.com/BY571/BY571/main/assets/stats-light.svg"
-       alt="BY571 GitHub stats" width="420">
+          srcset="https://raw.githubusercontent.com/BY571/BY571/main/assets/stars-dark.svg">
+  <img src="https://raw.githubusercontent.com/BY571/BY571/main/assets/stars-light.svg"
+       alt="Total stars across BY571 public repositories" width="420">
 </picture>
 
 <picture>
