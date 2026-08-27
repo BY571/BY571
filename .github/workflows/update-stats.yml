@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   push:
     paths:
-      - scripts/update_stats.py
+      - scripts/update_stars.py
       - .github/workflows/update-stats.yml
 
 permissions:
@@ -25,7 +25,7 @@ jobs:
       - name: Generate stat cards
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python3 scripts/update_stats.py
+        run: python3 scripts/update_stars.py
 
       - name: Commit if changed
         run: |
