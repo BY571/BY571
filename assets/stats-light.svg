@@ -11,9 +11,9 @@
 <text x="0" y="137" fill="#4a4a4a" font-size="13">Total commits</text>
 <text x="420" y="137" fill="#2b2b2b" font-size="13" font-weight="600" text-anchor="end">3,752</text>
 <text x="0" y="162" fill="#4a4a4a" font-size="13">Total pull requests</text>
-<text x="420" y="162" fill="#2b2b2b" font-size="13" font-weight="600" text-anchor="end">405</text>
+<text x="420" y="162" fill="#2b2b2b" font-size="13" font-weight="600" text-anchor="end">334</text>
 <text x="0" y="187" fill="#4a4a4a" font-size="13">Total issues</text>
-<text x="420" y="187" fill="#2b2b2b" font-size="13" font-weight="600" text-anchor="end">253</text>
+<text x="420" y="187" fill="#2b2b2b" font-size="13" font-weight="600" text-anchor="end">208</text>
 <text x="0" y="212" fill="#4a4a4a" font-size="13">Contributed to</text>
-<text x="420" y="212" fill="#2b2b2b" font-size="13" font-weight="600" text-anchor="end">35</text>
+<text x="420" y="212" fill="#2b2b2b" font-size="13" font-weight="600" text-anchor="end">6</text>
 </svg>
