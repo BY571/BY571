@@ -71,9 +71,10 @@ def render(stars, repos, theme):
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{WIDTH}" height="62" '
         f'viewBox="0 0 {WIDTH} 62" role="img" aria-label="{stars:,} {caption}">',
         f"<style>text{{font-family:{FONT};}}</style>",
-        f'<text x="0" y="38" fill="{c["title"]}" font-size="40" font-weight="600" '
-        f'letter-spacing="-1">{stars:,}</text>',
-        f'<text x="0" y="56" fill="{c["muted"]}" font-size="12">{caption}</text>',
+        f'<text x="{WIDTH/2}" y="38" fill="{c["title"]}" font-size="40" font-weight="600" '
+        f'letter-spacing="-1" text-anchor="middle">{stars:,}</text>',
+        f'<text x="{WIDTH/2}" y="56" fill="{c["muted"]}" font-size="12" '
+        f'text-anchor="middle">{caption}</text>',
         "</svg>",
     ])
 
