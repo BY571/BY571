@@ -1,0 +1,40 @@
+name: Update profile stats
+
+on:
+  schedule:
+    - cron: "17 6 * * 1"   # Mondays, 06:17 UTC
+  workflow_dispatch:
+  push:
+    paths:
+      - scripts/update_stats.py
+      - .github/workflows/update-stats.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-stats
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate stat cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/update_stats.py
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet -- assets; then
+            echo "Stats unchanged, nothing to commit."
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets
+          git commit -m "chore: refresh profile stat cards"
+          git push
