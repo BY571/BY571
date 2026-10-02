@@ -11,9 +11,9 @@
 
 - [**bricksrl**](https://github.com/BricksRL/bricksrl): LEGO-based platform for democratizing robotics and RL research · [project page](https://bricksrl.github.io/ProjectPage/)
 - [**Autonomous-Robocar**](https://github.com/BY571/Autonomous-Robocar): Self-driving RC-car: Raspberry Pi + CNN predicting steering and throttle from camera
-- [**AutomataLeague**](https://github.com/AutomataLeague): Platform for training robots on competitive environments in MuJoCo — robots race and clear obstacles ([parkour](https://github.com/AutomataLeague/automataleague-parkour)), wrestle each other out of a ring ([sumo](https://github.com/AutomataLeague/automataleague-sumo)). TorchRL PPO + MuJoCo-Warp, pluggable robots
-- [**SpaceX-Falcon9**](https://github.com/BY571/SpaceX-Falcon9): Landing a rocket on a drone ship with PPO — 6-DOF MuJoCo dynamics, 4096 parallel envs on MuJoCo-Warp, domain randomization · [write-up](https://medium.com/@sebastian-dittert/train-your-own-falcon-9-landing-policy-with-rl-mujoco-6c87f41ba745)
-- [**SpaceX-Mechazilla**](https://github.com/BY571/SpaceX-Mechazilla): Catching a descending rocket with mechanical chopstick arms, Mechazilla style. TorchRL PPO + MuJoCo-Warp, ~82% catch rate · [write-up](https://medium.com/@sebastian-dittert/training-ppo-to-catch-rockets-like-spacex-11237ca1eddb)
+- [**AutomataLeague**](https://github.com/AutomataLeague): Platform for training robots on competitive environments in MuJoCo. Robots race and clear obstacles ([parkour](https://github.com/AutomataLeague/automataleague-parkour)), wrestle each other out of a ring ([sumo](https://github.com/AutomataLeague/automataleague-sumo)). TorchRL PPO + MuJoCo-Warp, pluggable robots
+- [**SpaceX-Falcon9**](https://github.com/BY571/SpaceX-Falcon9): Landing a rocket on a drone ship with PPO · [write-up](https://medium.com/@sebastian-dittert/train-your-own-falcon-9-landing-policy-with-rl-mujoco-6c87f41ba745)
+- [**SpaceX-Mechazilla**](https://github.com/BY571/SpaceX-Mechazilla): Catching a descending rocket with mechanical chopstick arms, Mechazilla style. TorchRL PPO + MuJoCo-Warp · [write-up](https://medium.com/@sebastian-dittert/training-ppo-to-catch-rockets-like-spacex-11237ca1eddb)
 
 ## RL + Trading
 
