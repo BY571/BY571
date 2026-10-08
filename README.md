@@ -14,6 +14,7 @@
 - [**AutomataLeague**](https://github.com/AutomataLeague): Platform for training robots on competitive environments in MuJoCo. Robots race and clear obstacles ([parkour](https://github.com/AutomataLeague/automataleague-parkour)), wrestle each other out of a ring ([sumo](https://github.com/AutomataLeague/automataleague-sumo)). TorchRL PPO + MuJoCo-Warp, pluggable robots
 - [**SpaceX-Falcon9**](https://github.com/BY571/SpaceX-Falcon9): Landing a rocket on a drone ship with PPO · [write-up](https://medium.com/@sebastian-dittert/train-your-own-falcon-9-landing-policy-with-rl-mujoco-6c87f41ba745)
 - [**SpaceX-Mechazilla**](https://github.com/BY571/SpaceX-Mechazilla): Catching a descending rocket with mechanical chopstick arms, Mechazilla style. TorchRL PPO + MuJoCo-Warp · [write-up](https://medium.com/@sebastian-dittert/training-ppo-to-catch-rockets-like-spacex-11237ca1eddb)
+- [**pickplace**](https://github.com/BY571/pickplace): Franka arm packing items into bowls on a moving conveyor in Isaac Lab. State-based teacher, camera-based students trained with offline RL in TorchRL · [write-up](https://x.com/SediBY571/status/2107496322563444780)
 
 ## RL + Trading
 
